@@ -1,0 +1,4 @@
+# file: /Users/srini/Downloads/Traffic Data vs Air Pollution/traffic_pollution_dashboard/data/pollution_client.py
+# hypothesis_version: 6.141.1
+
+[0.02, 0.1, 0.3, 0.4, 0.5, 0.7, 0.9, 1.0, 1.1, 1.2, 1.4, 1.8, 120, 180, 200, 401, 429, 500, 502, 503, 504, 900, 'Accept', 'Bengaluru', 'Chennai', 'Content-Type', 'Delhi', 'GET', 'HEAD', 'OPTIONS', 'Retry-After', 'User-Agent', 'appid', 'application/json', 'aqi', 'city', 'co', 'end', 'http://', 'https://', 'lat', 'list', 'lon', 'no2', 'pm10', 'pm25', 'pollution_data', 'retry_after', 'start', 'station_id', 'timestamp']

@@ -1,0 +1,4 @@
+# file: /Users/srini/Downloads/Traffic Data vs Air Pollution/traffic_pollution_dashboard/services/data_processor.py
+# hypothesis_version: 6.141.1
+
+[0.2, 0.3, 0.5, 1.0, 10.0, 100.0, 200.0, 400.0, 500.0, 100, 200, 500, 1000, 2000, 'Asia/Kolkata', '_pollution', '_traffic', 'aqi', 'aqi_norm', 'average_speed', 'city', 'co', 'coerce', 'congestion_level', 'date_range', 'delay_index', 'drop', 'duplicate_count', 'empty', 'end', 'ffill', 'first', 'forward_fill', 'h', 'inner', 'interpolate', 'linear', 'max', 'mean', 'median', 'min', 'missing_values', 'no2', 'numeric_stats', 'pm10', 'pm10_norm', 'pm25', 'pm25_norm', 'pollution_index', 'record_count', 'road_segment', 'start', 'station_id', 'status', 'std', 'timestamp', 'timestamp_hour', 'timestamp_traffic']

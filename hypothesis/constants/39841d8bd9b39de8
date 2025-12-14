@@ -1,0 +1,4 @@
+# file: /Users/srini/Downloads/Traffic Data vs Air Pollution/traffic_pollution_dashboard/services/correlation_engine.py
+# hypothesis_version: 6.141.1
+
+[-1.0, -0.999, 0.0, 1e-10, 0.05, 0.1, 0.3, 0.5, 0.7, 0.75, 0.95, 0.999, 1.0, 100, 'aqi', 'aqi_mean', 'aqi_std', 'co', 'confidence_interval', 'congestion_level', 'correlation', 'correlations', 'hour', 'is_significant', 'method', 'moderate', 'negligible', 'no2', 'non_peak_data_points', 'p_value', 'peak_analysis', 'peak_data_points', 'peak_hours_count', 'pearson', 'pm10', 'pm25', 'pm25_mean', 'pm25_std', 'pollution', 'sample_size', 'spearman', 'strength', 'strong', 'summary_statistics', 'timestamp', 'traffic', 'traffic_mean', 'traffic_std', 'weak', 'x', 'y']

@@ -1,0 +1,4 @@
+# file: /Users/srini/Downloads/Traffic Data vs Air Pollution/traffic_pollution_dashboard/data/traffic_client.py
+# hypothesis_version: 6.141.1
+
+[0.3, 0.8, 1.0, 1.2, 1.3, 1.8, 100, 150, 200, 401, 429, 500, 502, 503, 504, 900, 'Accept', 'Bengaluru', 'Chennai', 'Content-Type', 'Delhi', 'GET', 'HEAD', 'OPTIONS', 'Retry-After', 'User-Agent', 'api_key', 'application/json', 'average_speed', 'city', 'congestion_level', 'data', 'delay_index', 'end_time', 'http://', 'https://', 'lat', 'lon', 'road_segment', 'start_time', 'status', 'timestamp', 'traffic_data']

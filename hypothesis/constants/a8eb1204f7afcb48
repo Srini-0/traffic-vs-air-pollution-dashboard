@@ -1,0 +1,4 @@
+# file: /Users/srini/Downloads/Traffic Data vs Air Pollution/traffic_pollution_dashboard/services/data_cache.py
+# hypothesis_version: 6.141.1
+
+[600, 900, 1024, 1800, 3600, 'api_responses', 'correlation_results', 'created_at', 'data', 'entries', 'evictions', 'expires_at', 'hit_rate', 'hits', 'key', 'last_accessed', 'misses', 'pollution_data', 'processed_data', 'records', 'size_bytes', 'time_to_expiry', 'total_requests', 'total_size_bytes', 'total_size_mb', 'traffic_data', 'ttl', '|']

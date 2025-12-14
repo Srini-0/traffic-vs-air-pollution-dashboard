@@ -1,0 +1,4 @@
+# file: /Users/srini/Downloads/Traffic Data vs Air Pollution/traffic_pollution_dashboard/config/settings.py
+# hypothesis_version: 6.141.1
+
+[12.9716, 13.0827, 28.6139, 77.209, 77.5946, 80.2707, 1000, ',', '900', 'Bengaluru', 'CACHE_TTL_SECONDS', 'Chennai', 'DEBUG', 'Delhi', 'False', 'INFO', 'LOG_LEVEL', 'POLLUTION_API_KEY', 'REDIS_URL', 'SUPPORTED_CITIES', 'TRAFFIC_API_BASE_URL', 'TRAFFIC_API_KEY', 'lat', 'lon', 'true']
